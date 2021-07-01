@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1624862456 source:c:\users\pc\desktop\zavrsnirad\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1624862456 c:\users\pc\desktop\zavrsnirad\header.h
+	"dataType.h"
+
+1624862456 c:\users\pc\desktop\zavrsnirad\datatype.h
+
+1624862456 source:c:\users\pc\desktop\zavrsnirad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"dataType.h"
+
+1624862458 source:c:\users\iva\desktop\zavrsnirad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"dataType.h"
+
+1624862458 c:\users\iva\desktop\zavrsnirad\header.h
+	"dataType.h"
+
+1624862458 c:\users\iva\desktop\zavrsnirad\datatype.h
+
